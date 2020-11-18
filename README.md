@@ -3,7 +3,7 @@
 A single page application example using aspnetcore 5.0.
 The server application contains very little logic, so could be hosted easily using another server-side framework.
 
-This is very experimentation only (at this stage) to trial these concepts:
+This is for experimentation only (at this stage) to trial these concepts:
 
 - Client-side routing with support for back/forward buttons
 - Dynamically loading HTML views without reloading the entire page
